@@ -1,7 +1,5 @@
 # svelte-trello-clone-app
 
----
-
 ## Rollup 프로젝트를 Snowpack 프로젝트로 이관
 
 최신 프론트엔드 빌드 도구인 Snowpack로 빌드 및 배포를 해본다.
